@@ -1,6 +1,14 @@
 ### :sloth: Hey there, I am George Oganesyan! :sloth:
 ### Education 
-Bachelor degree : “Control systems, information technology, electrical power systems” Moscow Aviation Institute ✈️, “Automated management of business processes and finances”
+
+✈️Moscow Aviation Institute (National Research University)✈️
+
+_Faculty_: "Control systems, computer science and electric power engineering"
+
+_Specialty_: "Computer Science and Engineering"
+
+_Education level_: Bachelor's degree, “Automated management of business processes and finances”
+
 ### Languages
 🇷🇺 Russian(native), 🇺🇸 English(B2), 🇩🇪 German(B1)
 
